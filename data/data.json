@@ -1,3 +1,44 @@
 [
-    
+    {
+        "id": 1,
+        "chef_name": "Sanjeev Kapoor",
+        "picture_url": "https://example.com/sanjeev-kapoor.jpg",
+        "years_of_experience": 30,
+        "num_recipes": 1000
+      },
+      {
+        "id": 2,
+        "chef_name": "Vikas Khanna",
+        "picture_url": "https://example.com/vikas-khanna.jpg",
+        "years_of_experience": 20,
+        "num_recipes": 500
+      },
+      {
+        "id": 3,
+        "chef_name": "Tarla Dalal",
+        "picture_url": "https://example.com/tarla-dalal.jpg",
+        "years_of_experience": 40,
+        "num_recipes": 2000
+      },
+      {
+        "id": 4,
+        "chef_name": "Ranveer Brar",
+        "picture_url": "https://example.com/ranveer-brar.jpg",
+        "years_of_experience": 15,
+        "num_recipes": 300
+      },
+      {
+        "id": 5,
+        "chef_name": "Madhur Jaffrey",
+        "picture_url": "https://example.com/madhur-jaffrey.jpg",
+        "years_of_experience": 50,
+        "num_recipes": 800
+      },
+      {
+        "id": 6,
+        "chef_name": "Saransh Goila",
+        "picture_url": "https://example.com/saransh-goila.jpg",
+        "years_of_experience": 10,
+        "num_recipes": 200
+      }
 ]
