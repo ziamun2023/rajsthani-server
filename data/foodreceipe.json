@@ -1,177 +1,229 @@
 [
     {
-        "id": 1,
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "category_id": "4",
       "name": " Rogan Josh",
       "details": "It is one of the signature dishes of Kashmir. Robust with varied spices, the dish is cooked with the aroma of fennel seeds, garam masala, bay leaves, turmeric and is indeed a celebration of all senses. A delicious dinner party option, Rogan Josh can be best paired with butter naan or paratha."
        ,
       "picture_url": "https://i.ndtvimg.com/i/2015-03/mutton-korma_625x350_51426244304.jpg"
-    }
-    ,
+    },
     {
-        "id": 1,
+      "_id": "0282e0e5822c404fbd15261f11c2ab6a",
+        "category_id": "1",
+        "chef_name": "Sanjeev Kapoor",
+        "about": "(born 10 April 1964) is an Indian celebrity chef, entrepreneur and television personality. Kapoor hosted the TV show Khana Khazana, the longest running show of its kind in Asia which was broadcast in 120 countries and in 2010 had more than 500 million viewers.[1] He is also the first chef in the world to own a 24X7 food and lifestyle channel, Food Food which was launched in January 2011.[2][3]"
+       ,
+       "pictures_url": "https://th.bing.com/th/id/R.cb5cdaa7f45931cf5f29fdc48795f7fc?rik=Gh%2bMLURWJES6mQ&pid=ImgRaw&r=0",
+      "years_of_experience": 30,
+      "num_recipes": 1000
+    },
+    {    "_id": "0282e0mm822c404fbd15261f11c2ab6a",
+      "category_id": "2",
+      "chef_name": "Vikas Khanna",
+      "about":"Vikas Khanna (born 14 November 1971) is an Indian chef, restaurateur, cookbook writer, filmmaker and humanitarian. He is one of the judges of MasterChef India. He is based in New York City.",
+      "pictures_url": "https://th.bing.com/th/id/R.4637ff6d2d54711be210bcbcb0ba1de3?rik=NDWGrGDkrg5ljA&pid=ImgRaw&r=0",
+      "years_of_experience": 20,
+      "num_recipes": 500
+    },
+
+    {  "_id": "0282e0mm822c40llpd15261f11c2ab6a",
+      "category_id": "3",
+      "chef_name": "Tarla Dalal",
+      "about":"Tarla Dalal (3 June 1936 – 6 November 2013) was an Indian food writer, chef, cookbook author and host of cooking shows.[1][2] Her first cook book, The Pleasures of Vegetarian Cooking, was published in 1974. Since then, she wrote over 100 books and sold more than 10 million copies. She also ran the largest Indian food web site, and published a bi-monthly magazine, Cooking & More. Her cooking shows included The Tarla Dalal Show and Cook It Up With Tarla Dalal. Her recipes were published in about 25 magazines and tried in an estimated 120 million Indian homes.[3]",
+      "pictures_url": "https://th.bing.com/th/id/R.1be7dc12692d2e935127749f3bb8dc20?rik=h52XdkTRI0D8Tw&riu=http%3a%2f%2findiannerve.com%2fwp-content%2fuploads%2f2013%2f11%2fTarla-Dalal.jpg&ehk=6gERzRKVR%2bmSTjI3cHs4DVQabCVpKdPer4adIis9Lsw%3d&risl=&pid=ImgRaw&r=0",
+      "years_of_experience": 40,
+      "num_recipes": 2000
+    },
+    {"_id": "0282e0e58a5c404fbd152ggf11c2ab6b",
+      "category_id": "4",
+      "chef_name": "Ranveer Brar",
+      "about":"Ranveer Brar is an Indian chef who has put his nation on the global culinary map with his cult celebrity status and several television shows under his name. He is well-known for hosting culinary programs like MasterChef India, Breakfast Xpress, and Thank God It’s Fryday.",
+
+      "pictures_url": "https://th.bing.com/th/id/R.e827182c74c26fa3082ddc56e76a1843?rik=UapALvhIu0IOPA&pid=ImgRaw&r=0",
+      "years_of_experience": 15,
+      "num_recipes": 300
+    },
+    {"_id": "0282e0e58a5c404fbd15261f11bxab6b",
+      "category_id": "5",
+      "chef_name": "Madhur Jaffrey",
+      "about":"Madhur Jaffrey CBE is an Indian-born British-American actress, food and travel writer, and television personality. She is recognized for bringing Indian cuisine to the western hemisphere with her debu…",
+      "pictures_url": "https://i.pinimg.com/originals/a0/64/8d/a0648d18b4ba21387c3501e917d22f7d.jpg",
+      "years_of_experience": 50,
+      "num_recipes": 800
+    },
+    {"_id": "0282e0e58a5c40cfbd15261f11c2ab6b",
+      "category_id": "6",
+      "chef_name": "Saransh Goila",
+      "about":"About Saransh Goila is a young and dynamic celebrity chef who became most famous with his version of butter chicken called “Goila Butter Chicken” featuring MasterChef Australia. He was also a judge on the show.",
+      "picture_url": "https://th.bing.com/th/id/R.137a326f0aa1938b9088e8f8e2dc7ffa?rik=PlxYFw4j%2b28DUQ&pid=ImgRaw&r=0",
+      "years_of_experience": 10,
+      "num_recipes": 200
+    },
+    {"_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "category_id": "3",
       "name": "Butter Chicken",
       "details": "This gorgeous plate is the reason every Punjabi takes pride in his food. Chunks of chicken marinated overnight in yogurt and a beautiful mix of spices, served with a dollop of melting cream or butter on top. A perfect dinner party recipe, this North-Indian style chicken recipe is made throughout the country with equal zest."
        ,
       "picture_url": "https://i.ndtvimg.com/i/2015-01/butter-chicken_625x350_71421325695.jpg"
     },
-    {
-        "id": 1,
+    {  "_id": "f69a695f037cd9484cecaea37ca71011",
+    "category_id": "2",
       "name": "Bhapaa Aloo",
       "details": "A stunner of a recipe, this one gets the Bengali flavours just right. Bhapaa is the Bengali word for steamed and this bengali recipe is exactly what it means. The humble potato tossed in local flavours of panch phoron (five spice powder), coconut paste and mustard oil, steamed to perfection. You can simply say this is a vegetarian version of Bhapaa Maach, just the fish has been replaced with baby potatoes. Simple yet satisfying!"
        ,
       "picture_url": "https://i.ndtvimg.com/i/2016-06/bhapaa-aloo_625x350_71465281820.jpg"
     },
-    {
-        "id": 1,
+    {  "_id": "0282e0e58a5c404fbd1goe1f11c2ab6a",
+      "category_id": "1",
       "name": "Banjari Gosht",
       "details": "Experience authentic Rajasthani flavours with this exquisite blend of yogurt and juicy mutton pieces.This is an easy Indian mutton recipe that you can prepare in about an hour with our step by step process. Serve with rice or any Indian bread at a dinner party. This is also a great recipe for festival get-together during Eid or Diwali."
        ,
       "picture_url": "https://i.ndtvimg.com/i/2016-03/mutton-curry_625x350_41458549653.jpg"
     },
-    {
-        "id": 2,
+    {  "_id": "0282e0effrec404fbd15261f11c2ab6a",
+      "category_id": "6",
       "name": " Rogan Josh",
       "details": "It is one of the signature dishes of Kashmir. Robust with varied spices, the dish is cooked with the aroma of fennel seeds, garam masala, bay leaves, turmeric and is indeed a celebration of all senses. A delicious dinner party option, Rogan Josh can be best paired with butter naan or paratha."
        ,
       "picture_url": "https://i.ndtvimg.com/i/2015-03/mutton-korma_625x350_51426244304.jpg"
     }
     ,
-    {
-        "id": 2,
+    {  "_id": "0282e0e58a5c404fbd15261f23c2ab6a",
+      "category_id": "5",
       "name": "Hyderabadi Biryani",
       "details": "BiryaniIt's the perfect choice for foodies who prefer having their rice with spice, interspersed with tender peaces of meat or chicken. Hyderabadi Biryani is a dish from down the south but spread all across the country and even abroad. Cooked in 'dum style', it's layered with fried onions and mint, serve at dinner parties with a cold raita. ."
        ,
       "picture_url": "https://i.ndtvimg.com/i/2016-01/biryani_625x350_81452497196.jpg"
     },
-    {
-        "id": 2,
+    {  "_id": "0282e0e58a5c404fbd15261f11c81b6a",
+      "category_id": "4",
       "name": "Kakori Kebab",
       "details": "A famous Nawabi recipe from Lucknow passed down through generations. It derives its name from the city of Kakori on the outskirts of Lucknow. It is made with the finest meat of the lamb and a few spices. These kebabs are soft and tender, served best with coriander chutney.!"
        ,
       "picture_url": "https://i.ndtvimg.com/i/2016-03/kakori-kebabs-625_625x350_41459348085.jpg"
     },
-    {
-        "id": 2,
+    {  "_id": "0282e0e58a5cxx4fbd15261f11c2ab6a",
+      "category_id": "3",
       "name": "Chicken Stew and Appam",
       "details": "This stunning dish comes straight from the hidden treasures of God's own country, Kerala. Chicken stew is a popular dish there as a traditional Easter dish and specially among the Christian families for breakfast or brunch. Chunks of chicken bathed in a beautifully spiced and dreamy coconut gravy with soft-centered appams, a southern-style rice pancake. ."
        ,
       "picture_url": "https://i.ndtvimg.com/i/2016-06/stew_625x350_41466057826.jpg"
     },
-    {
-        "id": 3,
+    {  "_id": "0282egq58a5c404fbd15261f11c2ab6a",
+      "category_id": "1",
       "name": "Dhokla",
       "details": "A popular Gujarati snack, Dhokla is a steamed cake made from gram flour and channa dal is one of the best things to come out of Gujarat.  You can serve dhokla for breakfast as well as a light snack in the evening along with a cup of tea. A recipe that is steamed and made in just 30 minutes, using besan with a colorful, chili tempering is sure to set your taste buds racing!"
        ,
       "picture_url": "https://i.ndtvimg.com/i/2016-03/dhokla_625x350_41457508751.jpg"
     },
-    {
-        "id": 3,
+    {  "_id": "0282e0e5866c404fbd15261f11c2ab6a",
+      "category_id": "1",
       "name": "Sali Boti",
       "details": "This one is a an ideal example of the Parsi's need to mix hot and sweet. Succulent mutton chunks are cooked in tomatoes, onions, jaggery and vinegar. It reeks of bold flavours like turmeric and ginger, and is best served hot with fried potato snacks.!"
        ,
       "picture_url": "https://i.ndtvimg.com/i/2016-06/chicken_625x350_81465813088.jpg"
     },
-    {
-        "id": 3,
+    {  "_id": "0282e8858a5c404fbd15261f11c2ab6a",
+      "category_id": "1",
       "name": "Idli Sambhar",
       "details": "This glorious steamed rice pancake with innumerable health benefits has made its way through generations. Idlis are about 2-3 inch wide, fluffy and can be relished for breakfast, lunch, snacks or dinner along with some finely ground coconut chutney and a hot steaming bowl of sambhar.!"
        ,
       "picture_url": "https://i.ndtvimg.com/i/2015-01/idli_625x350_61421915244.jpg"
     },
-    {
-        "id": 4,
+    {  "_id": "0282e0e58a5c404fbd15261f11c2abpp",
+      "category_id": "2",
       "name": " Dal Makhani",
       "details": "A luscious, creamy dal recipe loaded with butter, Dal Makhani is one of the classics! It is an absolute favorite recipe that can easily be cooked to perfection at home. You will find this dal recipe in almost every Indian restaurant but with this easy step by step recipe you can make this at home and serve with naan, paratha or accompany with some cooked rice."
        ,
       "picture_url": "https://i.ndtvimg.com/i/2017-12/dal-makhani_620x330_71513153561.jpg"
     },
-    {
-        "id": 4,
+    {  "_id": "0282e0e58a5c404fbd152ssf11c2ab6a",
+      "category_id": "2",
       "name": " Dal Makhani",
       "details": "A luscious, creamy dal recipe loaded with butter, Dal Makhani is one of the classics! It is an absolute favorite recipe that can easily be cooked to perfection at home. You will find this dal recipe in almost every Indian restaurant but with this easy step by step recipe you can make this at home and serve with naan, paratha or accompany with some cooked rice."
        ,
       "picture_url": "https://i.ndtvimg.com/i/2017-12/dal-makhani_620x330_71513153561.jpg"
     }
 ,
-{
-    "id": 4,
+{  "_id": "0282e0e58a5sfh4fbd15261f11c2ab6a",
+  "category_id": "3",
   "name": " Khichdi",
   "details": "A comfort food, khichdi is the lightest, most easiest recipe to relish. Topped with dollops of ghee, khichdi is perfect to cook on a lazy weekend lunch or when you are too tired to cook dinner on a weekday. This step by step recipe of khichdi has split green gram(moong dal) and rice come together beautifully for a one-dish meal, complete with all the nutrients."
    ,
   "picture_url": "https://c.ndtvimg.com/2018-10/iqj1o2qo_khichdi_625x300_01_October_18.jpg"
 },
-{
-    "id": 4,
+{  "_id": "0282e0e58a5c404fbd152tzf11c2ab6a",
+  "category_id": "3",
   "name": " Paneer Do Pyaaza",
   "details": "Paneer do pyaza is a very popular vegetarian recipe from north India. It is prepared by using paneer chunks dipped into a luscious and spicy gravy.."
    ,
   "picture_url": "https://c.ndtvimg.com/2022-04/egfhmuhg_paneer-_625x300_09_April_22.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350"
 },
-{
-    "id": 4,
+{  "_id": "0282e0e58a5c40oobd15261f11c2ab6a",
+  "category_id": "3",
   "name": " Aloo Kulcha",
   "details": "The kulcha is stuffed with a spicy aloo masala, making it taste just delicious! If you are familiar with making parathas at home, then preparing this all kulcha shall be super easy for you.."
    ,
   "picture_url": "https://c.ndtvimg.com/2019-05/oa0esrdg_chana-kulcha_625x300_31_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350"
 },
-{
-    "id": 4,
+{  "_id": "01fxe0e58a5c404fbd15261f11c2ab6a",
+  "category_id": "4",
   "name": " Sarso Ka Saag ",
   "details": "Indulge in the winter staple with this mouth-watering recipe of sarson ka saag. With the goodness of bathua, spinach and sarson, this recipe is super easy and quick to make. ."
    ,
   "picture_url": "https://i.ndtvimg.com/i/2015-01/saag_625x350_51420779118.jpg"
 },
-{
-    "id": 5,
+{  "_id": "0282e0e58a5c404fbd15261f11c2w26a",
+  "category_id": "4",
   "name": "Tandoori Chicken",
   "details": "Hard to resist, tandoori food never fails to please one and all. Chef Aditya Bal shows you simple steps and tricks to create some tandoori magic right in the comfort of your home!."
    ,
   "picture_url": "https://i.ndtvimg.com/i/2015-01/625-tandoori-chicken_625x350_81420696757.jpg"
 },
-{
-    "id": 5,
+{  "_id": "0282e0e58a5c404fbd15261f1wqeab6a",
+  "category_id": "4",
   "name": "Sarson Ka Saag Aur Makki Ki Roti",
   "details": "Palak, bathua and sarso saag come together to create a sensation with hearty makke ki roti. Simple, savoury and full of rustic flavours.."
    ,
   "picture_url": "https://c.ndtvimg.com/2019-05/oa0esrdg_chana-kulcha_625x300_31_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350"
 },
-{
-    "id": 5,
+{  "_id": "0282efre8a5c404fbd15261f11c2ab6a",
+  "category_id": "5",
   "name": "Masala Channa ",
   "details": "Boiled chickpeas wrapped in a flavourful mix of masalas and cooked to perfection. A quick fix for an afternoon meal or a great option for a hurried weekday dinner. This recipe will be loved by one and all."
    ,
   "picture_url": "https://i.ndtvimg.com/i/2015-01/625-channa_625x350_71420696993.jpg"
 },
-{
-    "id": 5,
+{  "_id": "028aq0e58a5c404fbd15261f11c2ab6a",
+  "category_id": "5",
   "name": " Oatmeal and Almond Cookies",
   "details": "This fibre-rich cookies are perfect to start your day. Both oats and almonds are great breakfast ingredients and you can use them to make these cookies instead of a boring breakfast bowl. You can even bite into the cookies for instant energy anytime of the day."
    ,
   "picture_url": "https://i.ndtvimg.com/i/2016-11/cookies-new-620_620x350_81480493563.jpg"
 },
-{
-    "id": 6,
+{  "_id": "0282e0exsa5c404fbd15261f11c2ab6a",
+  "category_id": "5",
   "name": " Dal Makhani",
   "details": "From the local highway dhabas to some of the most sophisticated five star hotels - Dal makhni finds its dedicated space on menus across eating joints and restaurants and beyond all cultural division. Master the art of cooking the queen of all dal preparations.."
    ,
   "picture_url": "https://i.ndtvimg.com/i/2015-01/dal-makhni-625_625x350_61420697068.jpg"
 },
-{
-    "id": 6,
+{  "_id": "0282e0e58vvc404fbd15261f11c2ab6a",
+  "category_id": "6",
   "name": " Machchli Amritsari",
   "details": "A treat for all fish lovers. Beautiful pieces of fish, coated in a spicy batter and deep fried to a golden perfection. Garnished with a sprinkling of garam masala and a dash of lemon juice for that extra zing.."
    ,
    "picture_url": "https://i.ndtvimg.com/i/2017-03/fish-tikka_725x483_51488522042.jpg"
 },
-{
-    "id": 6,
+{  "_id": "0282e0e58aqqq04fbd15261f11c2ab6a",
+  "category_id": "6",
   "name": " Dhaba Dal",
   "details": "Wonder why the food served by those simple, roadside dhabas is so distinctly flavourful? They make the most of local spices and rustic techniques and unadulterated recipes handed over by generations. Here's an authentic recipe of dhaba dal."
    ,
    "picture_url": "https://i.ndtvimg.com/i/2015-01/dhaba-dal-625_625x350_51420697307.jpg"
 },
-{
-    "id": 6,
+{  "_id": "0282e0e58a5s404fbq15261f11c2ab6a",
+  "category_id": "6",
   "name": " Paneer Tikka",
   "details": "or that unexpected dinner party, you can never go wrong with these quick, paneer bites. Soft and tender chunks of paneer, coated with a mix of masalas, grilled hot on skewers.."
    ,
