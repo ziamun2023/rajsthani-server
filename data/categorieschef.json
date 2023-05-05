@@ -5,7 +5,9 @@
         "about":"(born 10 April 1964) is an Indian celebrity chef, entrepreneur and television personality. Kapoor hosted the TV show Khana Khazana, the longest running show of its kind in Asia which was broadcast in 120 countries and in 2010 had more than 500 million viewers.[1] He is also the first chef in the world to own a 24X7 food and lifestyle channel, Food Food which was launched in January 2011.[2][3]",
         "picture_url": "https://th.bing.com/th/id/R.cb5cdaa7f45931cf5f29fdc48795f7fc?rik=Gh%2bMLURWJES6mQ&pid=ImgRaw&r=0",
         "years_of_experience": 30,
-        "num_recipes": 1000
+        "num_recipes": 1000,
+        "likes":45,
+        "ratings":4
       },
       {
         "id": "2",
@@ -13,7 +15,9 @@
         "about":"Vikas Khanna (born 14 November 1971) is an Indian chef, restaurateur, cookbook writer, filmmaker and humanitarian. He is one of the judges of MasterChef India. He is based in New York City.",
         "picture_url": "https://th.bing.com/th/id/R.4637ff6d2d54711be210bcbcb0ba1de3?rik=NDWGrGDkrg5ljA&pid=ImgRaw&r=0",
         "years_of_experience": 20,
-        "num_recipes": 500
+        "num_recipes": 500,
+        "likes":25,
+        "ratings":4
       },
       {
         "id": "3",
@@ -21,7 +25,9 @@
         "about":"Tarla Dalal (3 June 1936 – 6 November 2013) was an Indian food writer, chef, cookbook author and host of cooking shows.[1][2] Her first cook book, The Pleasures of Vegetarian Cooking, was published in 1974. Since then, she wrote over 100 books and sold more than 10 million copies. She also ran the largest Indian food web site, and published a bi-monthly magazine, Cooking & More. Her cooking shows included The Tarla Dalal Show and Cook It Up With Tarla Dalal. Her recipes were published in about 25 magazines and tried in an estimated 120 million Indian homes.[3]",
         "picture_url": "https://th.bing.com/th/id/R.1be7dc12692d2e935127749f3bb8dc20?rik=h52XdkTRI0D8Tw&riu=http%3a%2f%2findiannerve.com%2fwp-content%2fuploads%2f2013%2f11%2fTarla-Dalal.jpg&ehk=6gERzRKVR%2bmSTjI3cHs4DVQabCVpKdPer4adIis9Lsw%3d&risl=&pid=ImgRaw&r=0",
         "years_of_experience": 40,
-        "num_recipes": 2000
+        "num_recipes": 2000,
+        "likes":15,
+        "ratings":3
       },
       {
         "id": "4",
@@ -30,7 +36,9 @@
 
         "picture_url": "https://th.bing.com/th/id/R.e827182c74c26fa3082ddc56e76a1843?rik=UapALvhIu0IOPA&pid=ImgRaw&r=0",
         "years_of_experience": 15,
-        "num_recipes": 300
+        "num_recipes": 300,
+        "likes":54,
+        "ratings":4
       },
       {
         "id": "5",
@@ -38,7 +46,9 @@
         "about":"Madhur Jaffrey CBE is an Indian-born British-American actress, food and travel writer, and television personality. She is recognized for bringing Indian cuisine to the western hemisphere with her debu…",
         "picture_url": "https://i.pinimg.com/originals/a0/64/8d/a0648d18b4ba21387c3501e917d22f7d.jpg",
         "years_of_experience": 50,
-        "num_recipes": 800
+        "num_recipes": 800,
+        "likes":27,
+        "ratings":4
       },
       {
         "id": "6",
@@ -46,6 +56,8 @@
         "about":"About Saransh Goila is a young and dynamic celebrity chef who became most famous with his version of butter chicken called “Goila Butter Chicken” featuring MasterChef Australia. He was also a judge on the show.",
         "picture_url": "https://th.bing.com/th/id/R.137a326f0aa1938b9088e8f8e2dc7ffa?rik=PlxYFw4j%2b28DUQ&pid=ImgRaw&r=0",
         "years_of_experience": 10,
-        "num_recipes": 200
+        "num_recipes": 200,
+        "likes":60,
+        "ratings":5
       }
 ]

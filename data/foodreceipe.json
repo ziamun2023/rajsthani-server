@@ -5,7 +5,8 @@
       "name": " Rogan Josh",
       "details": "It is one of the signature dishes of Kashmir. Robust with varied spices, the dish is cooked with the aroma of fennel seeds, garam masala, bay leaves, turmeric and is indeed a celebration of all senses. A delicious dinner party option, Rogan Josh can be best paired with butter naan or paratha."
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2015-03/mutton-korma_625x350_51426244304.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2015-03/mutton-korma_625x350_51426244304.jpg",
+      "ingredients": "1 kilograms chopped into cubes mutton,1/2 teaspoon asafoetida,2 cinnamon,5 black cardamom,1 1/4 teaspoon ginger powder,150 gm hung curd,salt as required,1 1/2 cup water,2 1/2 tablespoon milk"
     },
     {
       "_id": "0282e0e5822c404fbd15261f11c2ab6a",
@@ -64,28 +65,32 @@
       "name": "Butter Chicken",
       "details": "This gorgeous plate is the reason every Punjabi takes pride in his food. Chunks of chicken marinated overnight in yogurt and a beautiful mix of spices, served with a dollop of melting cream or butter on top. A perfect dinner party recipe, this North-Indian style chicken recipe is made throughout the country with equal zest."
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2015-01/butter-chicken_625x350_71421325695.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2015-01/butter-chicken_625x350_71421325695.jpg",
+      "ingredients": "28 oz (800g) boneless and skinless chicken thighs or breasts cut into bite-sized pieces,1/2 cup plain yogurt,1 1/2 tablespoons minced garli,1 tablespoon minced ginger (or finely grated),2 teaspoons garam masala,1 teaspoon turmeric,1 teaspoon ground cumin,1 teaspoon red chili powder,1 teaspoon of salt"
     },
     {  "_id": "f69a695f037cd9484cecaea37ca71011",
     "category_id": "2",
       "name": "Bhapaa Aloo",
       "details": "A stunner of a recipe, this one gets the Bengali flavours just right. Bhapaa is the Bengali word for steamed and this bengali recipe is exactly what it means. The humble potato tossed in local flavours of panch phoron (five spice powder), coconut paste and mustard oil, steamed to perfection. You can simply say this is a vegetarian version of Bhapaa Maach, just the fish has been replaced with baby potatoes. Simple yet satisfying!"
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2016-06/bhapaa-aloo_625x350_71465281820.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2016-06/bhapaa-aloo_625x350_71465281820.jpg",
+      "ingredients":"200 gm small potatoes ,2 tsp mustard oil , 1/2 tsp Bengali five spice mixture (panchphoron) ,(whole jeera, saunf seeds, fenugreek seeds, black mustrad seeds and kalaunji),2 dry red chillies ,1/2 tsp mustard paste1 tsp hung curd ,3/4 tsp desiccated coconut pastePinch of green chilli , pastePinch of turmeric powder , Salt - to taste ,Dash of lime juice2, banana leaves"
     },
     {  "_id": "0282e0e58a5c404fbd1goe1f11c2ab6a",
       "category_id": "1",
       "name": "Banjari Gosht",
       "details": "Experience authentic Rajasthani flavours with this exquisite blend of yogurt and juicy mutton pieces.This is an easy Indian mutton recipe that you can prepare in about an hour with our step by step process. Serve with rice or any Indian bread at a dinner party. This is also a great recipe for festival get-together during Eid or Diwali."
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2016-03/mutton-curry_625x350_41458549653.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2016-03/mutton-curry_625x350_41458549653.jpg",
+      "ingredients":"Turmeric, Red chili powder, Coriander powder,Cumin powder, Garam masala,Chicken,Onion,Ginger,Garlic,Tomatoe,Yogurt,Oil,Salt,Cilantr,Green chilies"
     },
     {  "_id": "0282e0effrec404fbd15261f11c2ab6a",
       "category_id": "6",
       "name": " Rogan Josh",
       "details": "It is one of the signature dishes of Kashmir. Robust with varied spices, the dish is cooked with the aroma of fennel seeds, garam masala, bay leaves, turmeric and is indeed a celebration of all senses. A delicious dinner party option, Rogan Josh can be best paired with butter naan or paratha."
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2015-03/mutton-korma_625x350_51426244304.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2015-03/mutton-korma_625x350_51426244304.jpg",
+      "ingredients": "1 kilograms chopped into cubes mutton,1/2 teaspoon asafoetida,2 cinnamon,5 black cardamom,1 1/4 teaspoon ginger powder,150 gm hung curd,salt as required,1 1/2 cup water,2 1/2 tablespoon milk"
     }
     ,
     {  "_id": "0282e0e58a5c404fbd15261f23c2ab6a",
@@ -93,56 +98,65 @@
       "name": "Hyderabadi Biryani",
       "details": "BiryaniIt's the perfect choice for foodies who prefer having their rice with spice, interspersed with tender peaces of meat or chicken. Hyderabadi Biryani is a dish from down the south but spread all across the country and even abroad. Cooked in 'dum style', it's layered with fried onions and mint, serve at dinner parties with a cold raita. ."
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2016-01/biryani_625x350_81452497196.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2016-01/biryani_625x350_81452497196.jpg",
+      "ingredients":"Basmati rice,Chicken or lamb meat,Yogurt,Spices (including coriander, cumin, turmeric, ginger, garlic, and chili powder),Fried onions, Saffron (for flavor and color)"
     },
     {  "_id": "0282e0e58a5c404fbd15261f11c81b6a",
       "category_id": "4",
       "name": "Kakori Kebab",
       "details": "A famous Nawabi recipe from Lucknow passed down through generations. It derives its name from the city of Kakori on the outskirts of Lucknow. It is made with the finest meat of the lamb and a few spices. These kebabs are soft and tender, served best with coriander chutney.!"
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2016-03/kakori-kebabs-625_625x350_41459348085.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2016-03/kakori-kebabs-625_625x350_41459348085.jpg",
+      "ingredients": "Ground lamb or mutton,Ginger paste,Garlic paste,Papaya paste (to tenderize the meat),Spices (including red chili powder, garam masala, and black pepper,Ghee (clarified butter) for basting"
     },
     {  "_id": "0282e0e58a5cxx4fbd15261f11c2ab6a",
       "category_id": "3",
       "name": "Chicken Stew and Appam",
       "details": "This stunning dish comes straight from the hidden treasures of God's own country, Kerala. Chicken stew is a popular dish there as a traditional Easter dish and specially among the Christian families for breakfast or brunch. Chunks of chicken bathed in a beautifully spiced and dreamy coconut gravy with soft-centered appams, a southern-style rice pancake. ."
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2016-06/stew_625x350_41466057826.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2016-06/stew_625x350_41466057826.jpg",
+      "ingredients": "Chicken,Potatoes,Coconut milk,Onion,Spices (including cinnamon, cardamom, cloves, and pepper), Appam batter (made from fermented rice and coconut milk)"
     },
     {  "_id": "0282egq58a5c404fbd15261f11c2ab6a",
       "category_id": "1",
       "name": "Dhokla",
       "details": "A popular Gujarati snack, Dhokla is a steamed cake made from gram flour and channa dal is one of the best things to come out of Gujarat.  You can serve dhokla for breakfast as well as a light snack in the evening along with a cup of tea. A recipe that is steamed and made in just 30 minutes, using besan with a colorful, chili tempering is sure to set your taste buds racing!"
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2016-03/dhokla_625x350_41457508751.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2016-03/dhokla_625x350_41457508751.jpg",
+      "ingredients":"Gram flour (also known as besan),Semolina (also known as sooji),YogurtGreen chili paste,Ginger paste,Eno fruit salt (or baking soda) for leavening"
     },
     {  "_id": "0282e0e5866c404fbd15261f11c2ab6a",
       "category_id": "1",
       "name": "Sali Boti",
       "details": "This one is a an ideal example of the Parsi's need to mix hot and sweet. Succulent mutton chunks are cooked in tomatoes, onions, jaggery and vinegar. It reeks of bold flavours like turmeric and ginger, and is best served hot with fried potato snacks.!"
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2016-06/chicken_625x350_81465813088.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2016-06/chicken_625x350_81465813088.jpg",
+      "ingredients":"Boneless lamb or beef,Potatoes,Onion,Tomatoes,Spices (including cumin, coriander, turmeric, and red chili powder),Sali (thinly sliced fried potato straws) for garnish"
     },
     {  "_id": "0282e8858a5c404fbd15261f11c2ab6a",
       "category_id": "1",
       "name": "Idli Sambhar",
       "details": "This glorious steamed rice pancake with innumerable health benefits has made its way through generations. Idlis are about 2-3 inch wide, fluffy and can be relished for breakfast, lunch, snacks or dinner along with some finely ground coconut chutney and a hot steaming bowl of sambhar.!"
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2015-01/idli_625x350_61421915244.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2015-01/idli_625x350_61421915244.jpg",
+      "ingredients":"Idli rice (or parboiled rice) and urad dal (skinned black gram lentils) for idli batter,Vegetables (such as onions,tomatoes, carrots, and eggplant) for the sambhar,Toor dal (pigeon pea lentils) for the sambhar,Sambhar powder (a blend of spices,including coriander, cumin, and mustard seeds) for the sambhar,Tamarind pulp (or paste) for sourness in the sambhar,Curry leaves and mustard seeds for tempering the sambhar"
     },
     {  "_id": "0282e0e58a5c404fbd15261f11c2abpp",
       "category_id": "2",
       "name": " Dal Makhani",
       "details": "A luscious, creamy dal recipe loaded with butter, Dal Makhani is one of the classics! It is an absolute favorite recipe that can easily be cooked to perfection at home. You will find this dal recipe in almost every Indian restaurant but with this easy step by step recipe you can make this at home and serve with naan, paratha or accompany with some cooked rice."
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2017-12/dal-makhani_620x330_71513153561.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2017-12/dal-makhani_620x330_71513153561.jpg",
+      "ingredients":"Whole black lentils (also known as urad dal),Red kidney beans (also known as rajma),Butter or ghee (clarified butter),Tomatoes,Cream,Spices (including cumin, coriander, turmeric, garam masala, and chili powder)"
+      
     },
     {  "_id": "0282e0e58a5c404fbd152ssf11c2ab6a",
       "category_id": "2",
       "name": " Dal Makhani",
       "details": "A luscious, creamy dal recipe loaded with butter, Dal Makhani is one of the classics! It is an absolute favorite recipe that can easily be cooked to perfection at home. You will find this dal recipe in almost every Indian restaurant but with this easy step by step recipe you can make this at home and serve with naan, paratha or accompany with some cooked rice."
        ,
-      "picture_url": "https://i.ndtvimg.com/i/2017-12/dal-makhani_620x330_71513153561.jpg"
+      "picture_url": "https://i.ndtvimg.com/i/2017-12/dal-makhani_620x330_71513153561.jpg",
+      "ingredients":"Whole black lentils (also known as urad dal),Red kidney beans (also known as rajma),Butter or ghee (clarified butter),Tomatoes,Cream,Spices (including cumin, coriander, turmeric, garam masala, and chili powder)"
     }
 ,
 {  "_id": "0282e0e58a5sfh4fbd15261f11c2ab6a",
@@ -150,84 +164,96 @@
   "name": " Khichdi",
   "details": "A comfort food, khichdi is the lightest, most easiest recipe to relish. Topped with dollops of ghee, khichdi is perfect to cook on a lazy weekend lunch or when you are too tired to cook dinner on a weekday. This step by step recipe of khichdi has split green gram(moong dal) and rice come together beautifully for a one-dish meal, complete with all the nutrients."
    ,
-  "picture_url": "https://c.ndtvimg.com/2018-10/iqj1o2qo_khichdi_625x300_01_October_18.jpg"
+  "picture_url": "https://c.ndtvimg.com/2018-10/iqj1o2qo_khichdi_625x300_01_October_18.jpg",
+  "ingredients":"Rice,Split yellow mung beans (also known as moong dal),Ghee (clarified butter),Cumin seeds,Turmeric,Salt"
 },
 {  "_id": "0282e0e58a5c404fbd152tzf11c2ab6a",
   "category_id": "3",
   "name": " Paneer Do Pyaaza",
   "details": "Paneer do pyaza is a very popular vegetarian recipe from north India. It is prepared by using paneer chunks dipped into a luscious and spicy gravy.."
    ,
-  "picture_url": "https://c.ndtvimg.com/2022-04/egfhmuhg_paneer-_625x300_09_April_22.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350"
+  "picture_url": "https://c.ndtvimg.com/2022-04/egfhmuhg_paneer-_625x300_09_April_22.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
+  "ingredients":"Paneer (Indian cottage cheese),Onions (two different types - sliced onions and pearl onions),Tomatoes,Ginger paste,Garlic paste,Spices (including cumin, coriander, turmeric, garam masala, and chili powder)"
 },
 {  "_id": "0282e0e58a5c40oobd15261f11c2ab6a",
   "category_id": "3",
   "name": " Aloo Kulcha",
   "details": "The kulcha is stuffed with a spicy aloo masala, making it taste just delicious! If you are familiar with making parathas at home, then preparing this all kulcha shall be super easy for you.."
    ,
-  "picture_url": "https://c.ndtvimg.com/2019-05/oa0esrdg_chana-kulcha_625x300_31_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350"
+  "picture_url": "https://c.ndtvimg.com/2019-05/oa0esrdg_chana-kulcha_625x300_31_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
+  "ingredients":"Potato ,Paneer (Indian cottage cheese), Bell pepper, Onionn, Yogurt, Spices (including cumin, coriander, turmeric, garammasala,and chili powder),Lemon juice"
 },
 {  "_id": "01fxe0e58a5c404fbd15261f11c2ab6a",
   "category_id": "4",
   "name": " Sarso Ka Saag ",
   "details": "Indulge in the winter staple with this mouth-watering recipe of sarson ka saag. With the goodness of bathua, spinach and sarson, this recipe is super easy and quick to make. ."
    ,
-  "picture_url": "https://i.ndtvimg.com/i/2015-01/saag_625x350_51420779118.jpg"
+  "picture_url": "https://i.ndtvimg.com/i/2015-01/saag_625x350_51420779118.jpg",
+  "ingredients":"Paneer (Indian cottage cheese),Onions (two different types - sliced onions and pearl onions),Tomatoes,Ginger paste,Garlic paste,Spices (including cumin, coriander, turmeric, garam masala, and chili powder)"
 },
 {  "_id": "0282e0e58a5c404fbd15261f11c2w26a",
   "category_id": "4",
   "name": "Tandoori Chicken",
   "details": "Hard to resist, tandoori food never fails to please one and all. Chef Aditya Bal shows you simple steps and tricks to create some tandoori magic right in the comfort of your home!."
    ,
-  "picture_url": "https://i.ndtvimg.com/i/2015-01/625-tandoori-chicken_625x350_81420696757.jpg"
+  "picture_url": "https://i.ndtvimg.com/i/2015-01/625-tandoori-chicken_625x350_81420696757.jpg",
+  "ingredients":".chickenPaneer (Indian cottage cheese), Bell pepper, Onionn, Yogurt, Spices (including cumin, coriander, turmeric, garammasala,and chili powder),Lemon juice"
 },
 {  "_id": "0282e0e58a5c404fbd15261f1wqeab6a",
   "category_id": "4",
   "name": "Sarson Ka Saag Aur Makki Ki Roti",
   "details": "Palak, bathua and sarso saag come together to create a sensation with hearty makke ki roti. Simple, savoury and full of rustic flavours.."
    ,
-  "picture_url": "https://c.ndtvimg.com/2019-05/oa0esrdg_chana-kulcha_625x300_31_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350"
+  "picture_url": "https://c.ndtvimg.com/2019-05/oa0esrdg_chana-kulcha_625x300_31_May_19.jpg?im=FeatureCrop,algorithm=dnn,width=620,height=350",
+  "ingredients":"Paneer (Indian cottage cheese), Bell pepper, Onionn, Yogurt, Spices (including cumin, coriander, turmeric, garammasala,and chili powder),Lemon juice"
 },
 {  "_id": "0282efre8a5c404fbd15261f11c2ab6a",
   "category_id": "5",
   "name": "Masala Channa ",
   "details": "Boiled chickpeas wrapped in a flavourful mix of masalas and cooked to perfection. A quick fix for an afternoon meal or a great option for a hurried weekday dinner. This recipe will be loved by one and all."
    ,
-  "picture_url": "https://i.ndtvimg.com/i/2015-01/625-channa_625x350_71420696993.jpg"
+  "picture_url": "https://i.ndtvimg.com/i/2015-01/625-channa_625x350_71420696993.jpg",
+  "ingredients":"Paneer (Indian cottage cheese), Bell pepper, Onionn, Yogurt, Spices (including cumin, coriander, turmeric, garammasala,and chili powder),Lemon juice"
 },
 {  "_id": "028aq0e58a5c404fbd15261f11c2ab6a",
   "category_id": "5",
   "name": " Oatmeal and Almond Cookies",
   "details": "This fibre-rich cookies are perfect to start your day. Both oats and almonds are great breakfast ingredients and you can use them to make these cookies instead of a boring breakfast bowl. You can even bite into the cookies for instant energy anytime of the day."
    ,
-  "picture_url": "https://i.ndtvimg.com/i/2016-11/cookies-new-620_620x350_81480493563.jpg"
+  "picture_url": "https://i.ndtvimg.com/i/2016-11/cookies-new-620_620x350_81480493563.jpg",
+  "ingredients":"Paneer (Indian cottage cheese), Bell pepper, Onionn, Yogurt, Spices (including cumin, coriander, turmeric, garammasala,and chili powder),Lemon juice"
 },
 {  "_id": "0282e0exsa5c404fbd15261f11c2ab6a",
   "category_id": "5",
   "name": " Dal Makhani",
   "details": "From the local highway dhabas to some of the most sophisticated five star hotels - Dal makhni finds its dedicated space on menus across eating joints and restaurants and beyond all cultural division. Master the art of cooking the queen of all dal preparations.."
    ,
-  "picture_url": "https://i.ndtvimg.com/i/2015-01/dal-makhni-625_625x350_61420697068.jpg"
+  "picture_url": "https://i.ndtvimg.com/i/2015-01/dal-makhni-625_625x350_61420697068.jpg",
+  "ingredients":"Paneer (Indian cottage cheese),Onions (two different types - sliced onions and pearl onions),Tomatoes,Ginger paste,Garlic paste,Spices (including cumin, coriander, turmeric, garam masala, and chili powder)"
 },
 {  "_id": "0282e0e58vvc404fbd15261f11c2ab6a",
   "category_id": "6",
   "name": " Machchli Amritsari",
   "details": "A treat for all fish lovers. Beautiful pieces of fish, coated in a spicy batter and deep fried to a golden perfection. Garnished with a sprinkling of garam masala and a dash of lemon juice for that extra zing.."
    ,
-   "picture_url": "https://i.ndtvimg.com/i/2017-03/fish-tikka_725x483_51488522042.jpg"
+   "picture_url": "https://i.ndtvimg.com/i/2017-03/fish-tikka_725x483_51488522042.jpg",
+   "ingredients":"Paneer (Indian cottage cheese), Bell pepper, Onionn, Yogurt, Spices (including cumin, coriander, turmeric, garammasala,and chili powder),Lemon juice"
 },
 {  "_id": "0282e0e58aqqq04fbd15261f11c2ab6a",
   "category_id": "6",
   "name": " Dhaba Dal",
   "details": "Wonder why the food served by those simple, roadside dhabas is so distinctly flavourful? They make the most of local spices and rustic techniques and unadulterated recipes handed over by generations. Here's an authentic recipe of dhaba dal."
    ,
-   "picture_url": "https://i.ndtvimg.com/i/2015-01/dhaba-dal-625_625x350_51420697307.jpg"
+   "picture_url": "https://i.ndtvimg.com/i/2015-01/dhaba-dal-625_625x350_51420697307.jpg",
+   "ingredients":"Paneer (Indian cottage cheese), Bell pepper, Onionn, Yogurt, Spices (including cumin, coriander, turmeric, garammasala,and chili powder),Lemon juice"
 },
 {  "_id": "0282e0e58a5s404fbq15261f11c2ab6a",
   "category_id": "6",
   "name": " Paneer Tikka",
   "details": "or that unexpected dinner party, you can never go wrong with these quick, paneer bites. Soft and tender chunks of paneer, coated with a mix of masalas, grilled hot on skewers.."
    ,
-   "picture_url": "https://i.ndtvimg.com/i/2015-01/paneer-tikka-625_625x350_81420697374.jpg"
+   "picture_url": "https://i.ndtvimg.com/i/2015-01/paneer-tikka-625_625x350_81420697374.jpg",
+   "ingredients":"Paneer (Indian cottage cheese), Bell pepper, Onionn, Yogurt, Spices (including cumin, coriander, turmeric, garammasala,and chili powder),Lemon juice"
 }
 ]
     
